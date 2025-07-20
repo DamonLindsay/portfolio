@@ -6,10 +6,11 @@ Welcome to my professional GitHub portfolio.  This repository serves as a centra
 
 ## 🔧 Projects
 
-> Below are some featured repositories (will be added soon!):
+> Below are some featured repositories I've built:
 >
 > | Project | Description | Tech Stack|
-> |xxx|xxx|xxx|
+> |---------|-------------|-----------|
+> [Word Raider](https://github.com/DamonLindsay/word-raider) | Interactive CLI word-guessing game with single-letter and full-word guesses, CLI flags, unit tests, and CI. | Python, argparse, pytest, GitHub Actions |
 >
 > ---
 >
