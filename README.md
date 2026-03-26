@@ -24,7 +24,6 @@ Welcome to my professional GitHub portfolio.  This repository serves as a centra
 > ## 📫 Get in Touch
 > - **Email**: [damonides@gmail.com]
 > - **LinkedIn**: [linkedin.com/in/damon-lindsay-b1a582296](https://www.linkedin.com/in/damon-lindsay-b1a582296/)
-> - **Website/Portfolio**: (LINK HERE LATER)
 >
 > ---
 >
